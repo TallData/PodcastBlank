@@ -163,7 +163,13 @@ a {
   z-index: 1999;
   position: relative; }
   .site-navbar .site-logo a {
-    color: #000; }
+    color: #000; 
+    font-size: 50%;
+  }
+  .site-navbar .site-logo .img-logo {
+    max-width: 33%;
+    height:auto;
+}
   .site-navbar .site-navigation.border-bottom {
     border-bottom: 1px solid #f3f3f4 !important; }
   .site-navbar .site-navigation .site-menu {
