@@ -13,6 +13,10 @@ body {
   background: #000;
   color: #fff; }
 
+col-lg-9 {
+  text-align: center;
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -169,6 +173,7 @@ a {
 
   .site-navbar .site-logo .img-logo {
     max-width: 100%;
+    min-width: 75%;
     height:auto;
 }
   .site-navbar .site-navigation.border-bottom {
