@@ -166,8 +166,9 @@ a {
     color: #000; 
     font-size: 50%;
   }
+
   .site-navbar .site-logo .img-logo {
-    max-width: 33%;
+    max-width: 100%;
     height:auto;
 }
   .site-navbar .site-navigation.border-bottom {
