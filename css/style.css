@@ -44,7 +44,7 @@ img-fluid{
   text-decoration: none;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  color:white;
   font-weight: 700;
 
   &:hover,
