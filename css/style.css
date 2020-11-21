@@ -25,6 +25,10 @@ img-fluid{
   align-items: center;
 }
 
+p{
+  font-size: 30%;
+}
+
 .snipcart-add-item{
   margin: 35px; 
   // Basic Button Style
