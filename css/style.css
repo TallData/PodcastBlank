@@ -26,12 +26,12 @@ img-fluid{
 }
 
 .snipcart-add-item{
-  margin: 50px; 
+  margin: 40px; 
   // Basic Button Style
   box-sizing: border-box;
   appearance: none;
   background-color: transparent;
-  border: 2px solid $black;
+  border: 2px solid $red;
   border-radius: 0.6em;
   color: $red;
   cursor: pointer;
@@ -58,7 +58,7 @@ img-fluid{
 .snipcart-add-item {
   transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
   &:hover {
-    box-shadow: 0 0 40px 40px $black inset;
+    box-shadow: 0 0 40px 40px $red inset;
   }
 }
 }
