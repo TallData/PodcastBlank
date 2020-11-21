@@ -34,7 +34,7 @@ p{
   // Basic Button Style
   box-sizing: border-box;
   appearance: none;
-  background-color: black;
+  background-color: green;
   border: 2px solid $white;
   border-radius: 0.6em;
   color: $red;
