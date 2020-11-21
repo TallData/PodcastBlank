@@ -26,13 +26,11 @@ img-fluid{
 }
 
 .snipcart-add-item{
-  margin-left: 25px; 
+  margin-left: 50px; 
 }
 
 .container-merch{
-  margin: 250px;
-  justify-content: center;
-  align-items: center;
+  margin-top: 50px;
 }
 
 a {
