@@ -25,6 +25,10 @@ img-fluid{
   align-items: center;
 }
 
+.snipcart-add-item{
+  padding-left: 25px; 
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
