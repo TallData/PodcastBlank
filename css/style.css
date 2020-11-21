@@ -30,8 +30,8 @@ img-fluid{
   // Basic Button Style
   box-sizing: border-box;
   appearance: none;
-  background-color: transparent;
-  border: 2px solid $red;
+  background-color: black;
+  border: 2px solid $white;
   border-radius: 0.6em;
   color: $red;
   cursor: pointer;
