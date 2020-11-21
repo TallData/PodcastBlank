@@ -26,11 +26,11 @@ img-fluid{
 }
 
 p{
-  font-size: .75rem;
+  font-size: 1rem;
 }
 
 .snipcart-add-item{
-  margin: 35px; 
+  margin: 45px; 
   // Basic Button Style
   box-sizing: border-box;
   appearance: none;
