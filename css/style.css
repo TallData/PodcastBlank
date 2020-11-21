@@ -19,6 +19,11 @@ img-fluid{
   margin-left: 500px;
 }
 
+.merch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 a {
   -webkit-transition: .3s all ease;
